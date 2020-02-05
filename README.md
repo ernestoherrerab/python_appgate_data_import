@@ -38,8 +38,7 @@ Instructions:
    Install config library
    Install requests library
 
-1. Download the CSV from https://docs.google.com/spreadsheets/d/1VYVVjPqh4snXsZdgBtvL6IQO7TensdYKWqeXn28sKpI/edit#gid=1653571993
-   The sheet is called "Kopia av SDP API Data" (download as csv)
+1. Download the CSV 
 
 2.  Run the "var_format.py" program which will create a new file called "variables.tf" with all the required information to run the main terraform program.
 
