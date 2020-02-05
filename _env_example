@@ -1,0 +1,12 @@
+IMPORT_FILE = some_file_name
+USERNAME_VAR = admin
+DEV_PASSWORD_VAR = some_password
+DEV_DEVICE_ID_VAR = some_device_id
+DEV_URL_VAR = https://sdp-dev.schibsted.se:8443/admin/
+STAGE_PASSWORD_VAR = some_password
+STAGE_DEVICE_ID_VAR = some_device_id
+STAGE_URL_VAR = https://sdp-stage-controller2-se.schibsted.se:8443/admin/
+PROD_PASSWORD_VAR = some_password
+PROD_DEVICE_ID_VAR = some_device_id
+PROD_URL_VAR = https://sdp-controller1-se.schibsted.se:8443/admin/
+AWS_KEY_ID = 7684923185
